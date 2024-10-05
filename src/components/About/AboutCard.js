@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Usman Siddiqui </span>
             from <span className="purple"> Karachi, Pakistan.</span>
             <br />
-            I am currently employed as a software developer at Paysys Labs.
+            I am Senior Software Engineer at Beam.ai.
             <br />
             I have completed my BS in Computer Science from Fast University, Karachi.
             <br />
@@ -21,7 +21,7 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight />  Gaming 
+              <ImPointRight />  Gaming
             </li>
             <li className="about-activity">
               <ImPointRight />  Sports like Cricket , Table Tennis , Snooker and much more
